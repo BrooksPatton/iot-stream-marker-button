@@ -5,3 +5,4 @@ authors = ["brooks"]
 edition = "2018"
 
 [dependencies]
+gpio = "0.4.1"
